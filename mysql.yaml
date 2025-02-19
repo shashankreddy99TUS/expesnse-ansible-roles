@@ -1,3 +1,4 @@
+  
   - name: configuring MySQL server
     hosts: mysql
     become: yes
