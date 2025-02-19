@@ -1,6 +1,4 @@
-- name: configure mysql server
-  hosts: mysql
-  become: yes
+
 
 - name: Install MySQL libraries
   ansible.builtin.pip:
