@@ -1,1 +1,3 @@
 BACKEND_HOST: backend.daws82s.life
+APP_LOCATION: /usr/share/nginx/html
+COMPONENT: frontend
